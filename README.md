@@ -1,2 +1,7 @@
-# git-usgae
-Cheatsheet for git and npm
+# Cheatsheet for GIT and NPM
+## -- GIT --
+
+** Initialice a project **
+> git init
+
+
