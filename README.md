@@ -1,6 +1,3 @@
-# -- GIT --
-
-
 ## CONFIGURATION
 
 | Description | Command |
