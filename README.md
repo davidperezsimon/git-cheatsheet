@@ -1,7 +1,7 @@
 # -- GIT --
 
 
-##CONFIGURATION
+## CONFIGURATION
 
 **Set the name of the commits**
 > git config --global user.name "thename"
