@@ -1,7 +1,7 @@
 # Cheatsheet for GIT and NPM
 ## -- GIT --
 
-** Initialice a project **
+**Initialice a project**
 > git init
 
 
