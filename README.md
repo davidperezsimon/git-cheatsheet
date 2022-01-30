@@ -21,7 +21,7 @@
 
 | Description | Command |
 | --- | --- |
-|All the directory | g`it add .` |
+|All the directory | `git add .` |
 | One file | `git add *filename` |
 | All the files omitting the new files | `git add --all` |
 | All the files with a specific extension | `git add *.js` |
