@@ -93,6 +93,7 @@
 | Delete the branch and add it to the master | `git branch -d *branchname*` |
 | Delete a branch without a confirm | `git branch -D *branchname*` |
 | Merge 2 branchs | `git merge *branch to merge into current* -m "Description"` |
+| Push a branch to server create/update | `git push -u *origin branch* *branch to send*` |
 
 
 ## TAG
